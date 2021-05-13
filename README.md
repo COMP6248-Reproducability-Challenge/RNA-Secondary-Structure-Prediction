@@ -15,3 +15,4 @@ This paper proposed a model called 'E2Efold' which is an end-to-end deep learnin
 - Nihui Pan (np1n20)
 
 - Hongshi Zhang (hz1y20)
+
