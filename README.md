@@ -8,7 +8,10 @@ This paper proposed a model called 'E2Efold' which is an end-to-end deep learnin
 
 Team members:
 
-*Yihui Wu (yw12g20)
-*Mingjun Xie (mx2n20)
-*Nihui Pan (np1n20)
-*Hongshi Zhang (hz1y20)
+-Yihui Wu (yw12g20)
+
+-Mingjun Xie (mx2n20)
+
+-Nihui Pan (np1n20)
+
+-Hongshi Zhang (hz1y20)
